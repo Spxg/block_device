@@ -1,6 +1,6 @@
 [package]
 name = "block_device"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["spxg <itsme@unsafe.me>"]
 edition = "2018"
 description = "BlockDevice trait"
